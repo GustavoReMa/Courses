@@ -1,2 +1,2 @@
 # Courses
-Git course notes
+Git course notes @by Gustavo
